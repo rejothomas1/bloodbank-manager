@@ -1,0 +1,12 @@
+# Build output
+*.exe
+*.o
+
+# MySQL DLLs copied next to the exe
+*.dll
+
+# Private database password
+config.h
+
+# VS Code settings (local to this PC)
+.vscode/
