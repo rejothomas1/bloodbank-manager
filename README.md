@@ -19,3 +19,7 @@ A menu-driven terminal application in C with MySQL (MCA mini project).
    ```
 4. Copy `libmysql.dll`, `libssl*.dll`, `libcrypto*.dll` from the MySQL `lib`/`bin` folders next to the exe
 5. Run `.\bloodbank.exe`
+
+## Author
+Rejo Thomas - MCA Mini Project
+
